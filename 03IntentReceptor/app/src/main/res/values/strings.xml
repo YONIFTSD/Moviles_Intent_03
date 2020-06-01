@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">03 Intent - Receptor</string>
+    <string name="cod">Su Codigo es :</string>
+    <string name="name">Su Nombre es :</string>
+    <string name="celular">Su Celular es :</string>
+    <string name="custon_camera">Imagen</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practica 03</string>
+    <string name="custon_camera">Capturar Camara</string>
+    <string name="edt_nombres">Ingrese su Nombre</string>
+    <string name="edt_celular">Ingrese su Celular</string>
+    <string name="edt_codigo">Ingrese su Codigo</string>
+    <string name="btn_mensaje">ENVIAR</string>
+    <string name="chooser_msj">Escoja la aplicacion</string>
+
+</resources>
